@@ -1,0 +1,20 @@
+{
+    "Author": "Subhro Majumder",
+    "ContentSize": 13638,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/capture-azure-vm-details/master/CaptureAzureVMDetails%20V1.4.ps1",
+    "DownloadCount": 811,
+    "Id": "Capture-Azure-VM-Details-457efe40",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 284,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-11-1T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Using this script, you can capture details of multiple Azure VMs and generate CSV report. Information includes VM Name,Size,Location, AVl Set, OS & Data Disk details, Networking details etc. You can run this script against a Subscription / Resource Group or a single VM.",
+    "Title": "Capture Azure VM Details",
+    "UpdatedDate": "2018-11-1T00:00:00",
+    "Url": "https://github.com/azureautomation/capture-azure-vm-details",
+    "UserTags": "Azure VM Details, Get Azure VM Details, Capture Azure VM Details"
+}
